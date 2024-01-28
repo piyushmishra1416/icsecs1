@@ -708,7 +708,7 @@ padding-bottom: 170px;
 
 #about:before {
   content: "";
-  background: rgba(21,76,121, 0.8);
+  background: rgba(0, 0, 0, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -852,7 +852,7 @@ padding-bottom: 170px;
 }
 
 #committee small{
-  color:rgba(21,76,121);
+  color:rgb(0, 0, 0);
 }
 
 /*--------------------------------------------------------------
@@ -1607,14 +1607,14 @@ background: rgba(0, 0, 0, 0.8);
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: rgba(21,76,121, 0.8);
+  background: rgba(0, 0, 0, 0.8);
   padding: 0 0 10px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: rgba(21,76,121);
+  background: rgb(0, 0, 0);
   padding: 60px 0 30px 0;
 }
 
