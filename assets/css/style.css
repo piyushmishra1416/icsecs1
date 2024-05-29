@@ -496,7 +496,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: calc(100vh);
-  background: url(../img/ece/clgphoto.jpeg) top center;
+  background: url(../img/ece/bg.JPG) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
